@@ -12,6 +12,10 @@ This was created using HTML, CSS, and Javascript.
 
 Download index.html, pacmen.js, and all image files by clicking the green code button. Make sure to save them to the same directory on your computer. Load the index.html file into your browser. Press the "Add PacMan" button until you are satisfied with the quantity and then press the "Start Game" button to watch the PacMen move around the screen.
 
+You can also interact with the page without having to download the files. 
+
+<a href="https://leahselig.github.io/PacMen/"> Try It Out Here! </a>
+
 ## Roadmap
 
 - [ ] Add in styling for the buttons
