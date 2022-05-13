@@ -18,6 +18,8 @@ You can also interact with the page without having to download the files.
 
 ## Roadmap
 
+- [ ] Have the PacMen switch between images so it looks like the real PacMan moving his mouth
+
 - [ ] Add in styling for the buttons
 
 - [ ] Add in the PacMan music
