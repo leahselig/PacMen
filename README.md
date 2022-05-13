@@ -1,5 +1,7 @@
 # PacMen Exercise
 
+<img src="PacmenScreenshot.jpg" alt="Multiple PacMen on the screen">
+
 This project was part of the course work required in the MIT xPRO Full-Stack development course.
 
 This project creates animated PacMen. Each time the "Add PacMan" button is pressed, a new PacMan is created at a different place on the screen. Once you like the amount of PacMen, the "Start Game" button can be clicked. This will cause the PacMen to start moving in all directions at different velocities. The PacMen also have collision detection when they hit the edge of the screen.
